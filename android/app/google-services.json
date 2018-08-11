@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "887971465584",
+    "firebase_url": "https://quack-193803.firebaseio.com",
+    "project_id": "quack-193803",
+    "storage_bucket": "quack-193803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887971465584:android:339c7dc4d86cad67",
+        "android_client_info": {
+          "package_name": "com.example.quack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887971465584-de0drvbvrptg679dn1j4iek80e12scfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quack",
+            "certificate_hash": "280ad6d8567c86eafcbe206ab961fd7e47b687bc"
+          }
+        },
+        {
+          "client_id": "887971465584-qi9jsa481oe3kmds62790emmqdlog2p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbP0ZyGL1nTGiOIdH6CNzw_CgWghZHHvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887971465584-qi9jsa481oe3kmds62790emmqdlog2p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887971465584-3irvr8f0lfee2dhkf8q4dssul0a5si05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quack"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
