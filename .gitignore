@@ -8,3 +8,5 @@ build/
 
 .flutter-plugins
 google-services.json
+.idea/workspace.xml
+
